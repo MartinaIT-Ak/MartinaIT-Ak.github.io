@@ -1,3 +1,13 @@
+@font-face {
+    font-family: font-awesome;
+    src: url(./fonts/fontawesome.css);
+}
+
+@font-face {
+    font-family: et-line;
+    src: url(./fonts/et-line.css);
+}
+
 body {
     margin: 0;
     padding: 0;
